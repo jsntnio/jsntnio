@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou José Antônio
 
 Sou graduando em **Tecnologia em Análise e Desenvolvimento de Sistemas** pelo **Instituto Federal de Ciência, Educação e Tecnologia da Paraíba (IFPB)**.  
-Tenho experiência prática em **programação**, **design** e **pesquisa**, e busco adquirir conhecimento utilizando tecnologia.
+Tenho experiência prática em **programação**, **design** e **pesquisa**, e busco **ampliar meus conhecimentos e desenvolver soluções por meio da tecnologia**.
 
 ---
 
